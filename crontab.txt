@@ -1,0 +1,1 @@
+*/10 * * * * python /home/app/web/cron_job.py >> /var/log/script.log
